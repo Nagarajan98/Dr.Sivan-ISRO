@@ -1,0 +1,26 @@
+#main{
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align:center;
+    background-color: black;
+    color: white;
+    background-size: contain
+}   
+.center{
+   text-align: center;
+   }
+
+
+#image{
+ max-width:100%;
+ height:auto;
+ object-fit:cover;
+ background-size:contain;
+ border-radius:5%;
+}
+
+.left{
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
